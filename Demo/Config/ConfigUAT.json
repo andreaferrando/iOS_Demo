@@ -1,0 +1,5 @@
+{
+    "uat": {
+        "baseUrl": "http://jsonplaceholder.typicode.com",
+    }
+}

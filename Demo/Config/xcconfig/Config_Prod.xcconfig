@@ -1,0 +1,12 @@
+//
+//  Config_Prod.xcconfig
+//
+//
+//  Created by
+//  Copyright © 2019 Andrea Ferrando. All rights reserved.
+#include "Pods/Target Support Files/Pods-Demo/Pods-Demo.debug (prod).xcconfig"
+#include "Pods/Target Support Files/Pods-Demo/Pods-Demo.release (prod).xcconfig"
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+EnvConfigFile = ConfigProd

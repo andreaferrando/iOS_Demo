@@ -1,0 +1,12 @@
+//
+//  Config_UAT.xcconfig
+//
+//
+//  Created by
+//  Copyright © 2019 Andrea Ferrando. All rights reserved.
+#include "Pods/Target Support Files/Pods-Demo/Pods-Demo.debug (uat).xcconfig"
+#include "Pods/Target Support Files/Pods-Demo/Pods-Demo.release (uat).xcconfig"
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+EnvConfigFile = ConfigUAT

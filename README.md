@@ -155,7 +155,7 @@ It is widely used in applications as they can react to changes in the data witho
 
 It can be used independently by the architecture adopted, however it can be very handy in applications following the MVVM design pattern where the view model doesn't hold a reference of the view, so observation is even more a key factor.
 
-As a showcase, I have decided to implement one module (posts) following the standard VIPER architecture where each layers holds references to the connected layers (E.g. presenter holds a reference to view and interactor), and a part of the Details module (View-Presenter relation) using RxSwift as an example of alternative implementation using Reactive Programming.
+As a showcase, I have decided to implement one module (posts) following the standard VIPER architecture where each layer holds references to the connected layers (E.g. presenter holds a reference to view and interactor), and a part of the Details module (View-Presenter relation) using RxSwift as an example of alternative implementation using Reactive Programming.
 
 **Warnings**
 
